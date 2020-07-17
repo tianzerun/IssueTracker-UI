@@ -5,6 +5,4 @@ dist/
 public/*.js
 public/*.map
 
-package-lock.json
-
 .env
