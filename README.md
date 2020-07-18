@@ -1,4 +1,8 @@
-# Pro MERN Stack - 2<sup>nd</sup> Edition
+# Issue Tracker
+- A MERN stack web app.
+- Check it out: https://tracker-ui-tianzerun.herokuapp.com
+
+---
 
 ## Table of Contents
 - [Chapter 14 - Authentication](#chapter-14---authentication)
